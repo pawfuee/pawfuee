@@ -10,6 +10,6 @@
 
 <td width="50%" align="center" valign="center" style="border: none;">
 <a href="https://guns.lol/melts" target="_blank">
-<img src="https://u.cubeupload.com/RAAAAAA/cce25720f7a04500a1b8.gif" width="190">
+<img src="https://melts.straw.page/" width="190">
 </a>
 
